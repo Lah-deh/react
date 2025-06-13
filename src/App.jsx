@@ -9,7 +9,7 @@ const App = () => {
         bio={
           <>
             I'm an Electronics and Computer Engineering student. <br />
-            Frontend developer in training who loves building and learning new things.
+            also a Frontend developer in training who loves building and learning new things.
           </>
         }
       />
